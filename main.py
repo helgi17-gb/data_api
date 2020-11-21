@@ -3,6 +3,7 @@ import json
 import requests
 from time import sleep
 
+
 class parse5ka:
     params = {
         'records_per_page': 100,
